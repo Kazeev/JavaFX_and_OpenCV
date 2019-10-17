@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="unnamed1">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed1</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="module-output" name="Test_JavaCV_2" />
+      <element id="file-copy" path="$USER_HOME$/Documents/Java_p/opencv/build/java/opencv-410.jar" />
+    </root>
+  </artifact>
+</component>
